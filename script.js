@@ -18,7 +18,6 @@ function solve(){
 
 }
 
-clearScreen()
 function clearScreen(){
 
     document.getElementById('result').value = ''
